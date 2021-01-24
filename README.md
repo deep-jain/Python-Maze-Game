@@ -7,7 +7,8 @@ A simple maze game to demonstrate the turtle and tkinter modules.
 * Testing and Run Enviroment:
     * OS: Ubuntu 20.10 x86_64
     * Command Lines: 
-        *python3 maze.py
+        * python3 maze.py
 
 Initial Run | Difficulty Selection | Maze Game 
 ------------ | ------------- | -------------
+![alt text](https://github.com/jdeep97/Python-Maze-Game/blob/main/commandScreenshot.png)
