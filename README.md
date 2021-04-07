@@ -12,3 +12,7 @@ A simple maze game to demonstrate the turtle and tkinter modules.
 Initial Run | Difficulty Selection | Maze Game 
 ------------ | ------------- | -------------
 ![alt text](https://github.com/deep-jain/Python-Maze-Game/blob/main/commandScreenshot.png) |![alt text](https://github.com/deep-jain/Python-Maze-Game/blob/main/difficultyOutput.png) | ![alt text](https://github.com/deepdatasci/Python-Maze-Game/blob/main/mazeOutput.png)
+
+<p align="center">
+    © Deep Jain
+</p>
